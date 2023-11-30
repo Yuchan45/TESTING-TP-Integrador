@@ -10,6 +10,8 @@
 
 # Inicializacion del proyecto
 - Clonar el proyecto
+- Levantarlo en el IDE a decision
+- Ejecutar cada test mediante pytest
   
 # Requisistos
 - Selenium y pytest
